@@ -1,2 +1,2 @@
-# payabbhi-ios
-Payabbhi iOS SDK http://payabbhi.com
+# iOS SDK
+Refer to [Mobile Checkout - iOS](http://payabbhi.com/docs/mobile-ios)
